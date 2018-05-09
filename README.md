@@ -4,4 +4,15 @@
 
 Laravel Rocket is a yet another boilerplate of [Laravel](https://laravel.com/) framework.
 
+# Clone repository
+```
+git clone https://github.com/laravel-rocket/installer.git
+```
+
+# Initiate new project
+```
+./installer/rocket new project-name
+```
+* Note: can not rename on Windows 
+
 
