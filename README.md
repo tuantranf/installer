@@ -13,6 +13,6 @@ git clone https://github.com/laravel-rocket/installer.git
 ```
 ./installer/rocket new project-name
 ```
-* Note: can not rename on Windows 
+* Note: can not rename folder error on Windows 
 
 
